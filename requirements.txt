@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+transformers
+sentence-transformers
+langchain
+spacy
+python-dotenv
+boto3
